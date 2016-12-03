@@ -151,5 +151,6 @@ myData = [
 [-8.1226261,-79.0286385, 'Costa Rica, Trujillo 13008, Peru'],
 [33.952602,-84.5499327, 'Marietta, GA, USA'],
 [42.9097484,-85.7630885, 'Grandville, MI, USA'],
-[34.3020001,48.8145943, 'Malayer, Hamadan Province, Iran']
+[34.3020001,48.8145943, 'Malayer, Hamadan Province, Iran'],
+[1.352083,103.819836, 'Singapore']
 ];
